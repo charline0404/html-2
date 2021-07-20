@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IDE Story Zone</title>
+</head>
+<body>
+    <h1 style="background-color: darkred;color: ghostwhite;">歡迎到我的故事小天地</h1>
+    <hr/>
+    <ul>
+        <li>溫馨der</li>
+        <input type="button" value="點我觀看" 
+        onclick="location.href='file:///C:/Users/User/Desktop/exercise%20sample/exercise-2.html'">
+        <li>恐怖der</li>
+        <input type="button" value="點我觀看" 
+        onclick="location.href='file:///C:/Users/User/Desktop/exercise%20sample/exercise-3.html'">
+        <li>浪漫der</li>
+        <input type="button" value="點我觀看" 
+        onclick="location.href='file:///C:/Users/User/Desktop/exercise%20sample/exercise-4.html'">
+    </ul>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story 1</title>
+</head>
+<body>
+    <div style="margin-top: auto;background-color: salmon;color: midnightblue;">
+        <h1>歸鄉情怯</h1>
+        <p>午後一對海外歸國夫妻走進戶所辦理恢復戶籍，夫妻拿著中華民國護照神情激動久久不已，看著這一幕的我，好奇地詢問他們的故事<br/>原來當初他們因為種種原因出國，時隔多年才回國，再次踏上家鄉的土地，雖然景物依舊人事全非，但思鄉的心情絲毫不減。
+            　　夫妻倆人是屬於電腦化前的除籍人口<br/>我整整花了一下午的時間找除戶簿頁<br/>但是當我看見夫妻拿著戶口名簿泛著淚光，嘴中唸唸有詞的說著：「<span style="margin-top: auto;background-color: midnightblue;color: salmon;">終於回家了! 終於回家了!</span>」，一整天的疲勞頓時消失殆盡
+        <br/>夫妻臨走前那踏實的表情更深深地烙印在我的腦海裡，我們只是盡本分做好份內的工作，提供滿足民眾需求的服務
+        <br/>而民眾對我們的回饋，就是我們小小戶籍員工作動力的來源。</p>
+    </div>
+    <input type="button" value="回到首頁" 
+        onclick="location.href='file:///C:/Users/User/Desktop/exercise%20sample/exercise-1.html'">
+</body>
+</html>

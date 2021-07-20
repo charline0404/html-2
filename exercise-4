@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story 3</title>
+</head>
+<body>
+    <div style="margin-top: auto; background-color: hotpink;color: ivory;">
+        <h1>圖書館</h1>
+        <p>前幾天看《大話紅娘》，看到大學圖書館裡，都曉曉和高文博隔著書架和綽綽書影尋找彼此
+        <br/><span style="background-color: rgb(52, 219, 241); color: lavender;">忽然想起了那個少年</span>
+        在很久的時間裡，我疑惑他怎麼知道我這麼多在圖書館發生的事情
+        <br/>直到有一天的凌晨，在學校的草地上我們都喝醉了
+        “你知道嗎?那段時間我每一天都會去圖書館遇你。”</p>
+    </div>
+    <input type="button" value="回到首頁" 
+        onclick="location.href='file:///C:/Users/User/Desktop/exercise%20sample/exercise-1.html'">
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="3">
+        <tr>
+            <th>科系+系級</th>
+            <th>姓名</th>
+            <th>學號</th>
+        </tr>
+        <tr>
+            <td>你的科系+系級</td>
+            <td>你的姓名</td>
+            <td>你的學號</td>
+        </tr>
+        <ul>
+            <li>網頁一</li>
+            <li>Figma</li>
+        </ul>
+    </table>
+    <div style="background-color: darkslateblue;color: deeppink;">
+        <h1 style="background-color:#169670;color:#fff">摩天動物園</h1>
+        <hr/>
+        <h3>活在<em>摩天動物園</em>&emsp;我只能祈求上天<br/>
+            賜我清澈一雙眼&emsp;一點點識破美麗的謊言<br/>
+            當你站在慾望邊緣&emsp;突然間善惡難分辨<br/>
+            <b>天使</b>與<b>魔鬼</b>都在身邊&emsp;這時候你跪在誰跟前</h3>
+    </div>
+    <hr/>
+    <div style="background-color: darkslateblue;color: deeppink;">
+        <h1 style="background-color:#169670;color:#fff">鄧紫棋</h1>
+        <hr/>
+        <a href="https://www.youtube.com/watch?v=A6gIat5xLWI">
+        <img src="https://attach.setn.com/newsimages/2020/06/04/2591909-XXL.jpg" width="250" height="380">
+        </a>
+        <input type="button" value="FB"
+        onclick="location.href='https://www.facebook.com/G.E.M.OfficialPage'">
+        <input type="button" value="IG"
+        onclick="location.href='https://www.instagram.com/gem0816/?hl=zh-twx'">
+    </div>
+</body>
+</html>
